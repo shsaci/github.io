@@ -12,3 +12,14 @@ h1 {
   color: black;
   padding: 5px 0px 10px 0px;
 }
+
+a {
+  display: block;
+  padding: 10px 0px 10px 0px;
+  color: green;
+}
+
+#homelink {
+  display: block;
+  text-align: center;
+}
