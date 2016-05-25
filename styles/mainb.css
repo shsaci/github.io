@@ -1,0 +1,31 @@
+* {
+  /*outline: 1px solid red;*/
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  /*display: flex;*/
+}
+
+body {
+  background-image: url("gen.jpg");
+  background-repeat: repeat;
+  font-family: arial;
+  font-size: 18px;
+  height: auto;
+  padding: 0 50px;
+  width: 100%
+}
+
+body h2 {
+  color: green;
+}
+
+body #q {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+a{
+  text-decoration: none;
+}
