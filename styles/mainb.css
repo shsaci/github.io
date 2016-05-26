@@ -1,8 +1,5 @@
 * {
   /*outline: 1px solid red;*/
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -ms-box-sizing: border-box;
   box-sizing: border-box;
   /*display: flex;*/
 }
@@ -13,7 +10,7 @@ body {
   font-family: arial;
   font-size: 18px;
   height: auto;
-  padding: 0 50px;
+  padding: 0 100px 0 20px;
   width: 100%
 }
 
