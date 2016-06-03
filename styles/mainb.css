@@ -1,28 +1,52 @@
-* {
-  /*outline: 1px solid red;*/
-  box-sizing: border-box;
-  /*display: flex;*/
-}
-
 body {
-  background-image: url("gen.jpg");
-  background-repeat: repeat;
+  background-color: #D8D8D8;
   font-family: arial;
-  font-size: 18px;
-  height: auto;
-  padding: 0 100px 0 20px;
-  width: 100%
-}
-
-body h2 {
-  color: green;
-}
-
-body #q1 {
-  font-weight: bold;
-  font-size: 20px;
 }
 
 a {
+  color: blue;
   text-decoration: none;
+}
+
+.logo {
+  margin-right: 2.4rem;
+  border-radius: 25%;
+  width: auto;
+  height: 100%;
+}
+
+.navbar {
+  /*background-color: red;*/
+}
+
+.homeicon {
+  margin-top: 2.5rem;
+  width: auto;
+  height: 100%;
+}
+
+.but {
+  margin-top: 2rem;
+}
+
+.hero  {
+  padding-top: 5rem;
+  text-align: left;
+}
+
+.main {
+  /*background-color: green;*/
+}
+
+.footer {
+  display: block;
+}
+
+footer p{
+    padding-top: 6rem;
+    text-align: center;
+}
+
+.blog {
+  margin: 5rem;
 }

@@ -1,0 +1,59 @@
+body {
+  background-color: #D8D8D8;
+  font-family: arial;
+}
+
+.logo {
+  margin-right: 2.4rem;
+  border-radius: 25%;
+  width: auto;
+  height: 100%;
+}
+
+.navbar {
+  /*background-color: red;*/
+  border-radius: 5px;
+}
+
+.homeicon {
+  margin-top: 2.5rem;
+  width: auto;
+  height: 100%;
+}
+
+.but {
+  margin-top: 2rem;
+}
+
+.hero  {
+  padding-top: 5rem;
+  text-align: center; }
+
+.main {
+  /*background-color: green;*/
+}
+
+.main .container1 {
+  /*background-color: yellow;*/
+}
+
+.main .container2 {
+  /*background-color: grey;*/
+}
+
+.app {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  width: auto;
+  height: 100%;
+}
+
+.footer {
+  /*background-color: pink;*/
+  display: block;
+}
+
+footer p{
+    padding-top: 6rem;
+    text-align: center;
+  }
