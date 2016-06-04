@@ -5,34 +5,35 @@ body {
 
 .but {
   margin-top: 2rem;
- }
+}
 
-  .logo {
-    border-radius: 25%;
-    height: auto;
-    margin-right: 2rem;
-    width: 30%;
-  }
+.logo {
+  border-radius: 25%;
+  height: auto;
+  margin-right: 2rem;
+  width: 30%;
+}
 
-  /*.homeicon {
-    margin-top: 2.5rem;
-    width: auto;
-    height: 100%;
-    display: none;
-  }*/
+/*.homeicon {
+margin-top: 2.5rem;
+width: auto;
+height: 100%;
+display: none;
+}*/
 
-  .hero {
-    padding-top: 3rem;
-    text-align: center;
-  }
+.hero {
+  padding-top: 3rem;
+  text-align: center;
+}
 
-  .app {
-    margin-top: 3rem;
-  }
+.app {
+  margin-top: 2rem;
+}
 
-  footer p {
-    padding-top: 6rem;
-  }
+footer p {
+  padding-top: 6rem;
+  text-align: center;
+}
 
 @media (min-width: 770px) {
   body {
@@ -52,9 +53,9 @@ body {
   }
 
   /*.homeicon {
-    margin-top: 3.3rem;
-    width: auto;
-    height: 100%;
+  margin-top: 3.3rem;
+  width: auto;
+  height: 100%;
   }*/
 
   .but {
@@ -65,29 +66,15 @@ body {
     padding-top: 5rem;
     text-align: center; }
 
-  /*.main {
-  }
+.app {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  width: auto;
+  height: 100%;
+}
+footer p{
+  padding-top: 6rem;
+  text-align: center;
+}
 
-  .main .container1 {
-  }
-
-  .main .container2 {
-  }*/
-
-  .app {
-    margin-top: 4rem;
-    margin-bottom: 2rem;
-    width: auto;
-    height: 100%;
-  }
-
-  .footer {
-    display: block;
-  }
-
-  footer p{
-      padding-top: 6rem;
-      text-align: center;
-    }
-
-  }
+}
