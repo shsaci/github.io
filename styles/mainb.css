@@ -9,8 +9,8 @@ a {
   text-decoration: none;
 }
 
-img .wf{
-    max-width:100%; /* you can use % */
+.wf {
+    max-width:100%;
     height: auto;
 }
 
