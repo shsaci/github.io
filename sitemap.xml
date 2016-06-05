@@ -8,37 +8,47 @@
 
 <url>
   <loc>https://shsaci.github.io/</loc>
-  <lastmod>2016-05-26T22:36:11+00:00</lastmod>
+  <lastmod>2016-06-04T04:33:42+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://shsaci.github.io/index.html</loc>
-  <lastmod>2016-05-26T22:36:11+00:00</lastmod>
+  <lastmod>2016-06-04T04:33:42+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://shsaci.github.io/blog/blog-template.html</loc>
+  <lastmod>2016-06-04T04:33:42+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://shsaci.github.io/blog/c1-reflection-blog.html</loc>
-  <lastmod>2016-05-26T22:36:11+00:00</lastmod>
+  <lastmod>2016-06-04T04:33:42+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://shsaci.github.io/blog/c1-time-and-habits-blog.html</loc>
-  <lastmod>2016-05-26T22:36:11+00:00</lastmod>
+  <lastmod>2016-06-04T04:33:42+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://shsaci.github.io/blog/c2-emotional-intelligence.html</loc>
-  <lastmod>2016-05-26T22:36:11+00:00</lastmod>
+  <lastmod>2016-06-04T04:33:42+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://shsaci.github.io/blog/t2-html-css-dom-p1.html</loc>
-  <lastmod>2016-05-26T22:36:11+00:00</lastmod>
+  <lastmod>2016-06-04T04:33:42+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://shsaci.github.io/blog/t2-html-css-dom-p2.html</loc>
-  <lastmod>2016-05-26T22:36:11+00:00</lastmod>
+  <loc>https://shsaci.github.io/blog/c3-meditation-process.html</loc>
+  <lastmod>2016-06-04T04:33:42+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://shsaci.github.io/blog/t3-design-to-web-blog.html</loc>
+  <lastmod>2016-06-04T04:33:42+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 </urlset>
