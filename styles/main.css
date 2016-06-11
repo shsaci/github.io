@@ -28,6 +28,7 @@ display: none;
 
 .app {
   margin-top: 2rem;
+  border-radius: 5px;
 }
 
 footer p {
