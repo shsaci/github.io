@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>T6 Javascript Scope</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css">
+  <link rel="stylesheet" href="../styles/mainb.css">
+</head>
+
+<body>
+  <div class="Container blog">
+    <a id = "homelink" href = "blog-template.html">Back</a>
+    <h2>T6 Javscript Scope</h2>
+    <p><strong>What is 'scope' and how does it work in Javascript?</strong></p>
+    <p>Scope of a variable can be thought of as the areas of a program via which the variable is still accessible. For example if a variable is declared in the main function body of the program, outside of conditional statement, functions etc, it is called to be a 'Global' variable, and as the name suggests it can be called on/accessed/modified from anywhere in a program.</p>
+    <p>
+      In contrast if a variable is declared inside of a function or conditional statement, it is only accessible whilst being called upon (invoked) through the particular function or conditional statement. In an ideal situation all variables would only be local. This prevents hard-to-debug issues that can crop up with global variables that are possibly being accessed/ modified by multiple functions.
+    </p>
+    <p>
+      One side-affect of local variables with local scopes is not having to think of unique names for every single variable, which would be the case if all were global variables, used in a program. Knowing that the local scope prevents two variables over-lapping, makes the job a lot easier when it comes to functional programming, and writing short functions (for easier debugging and portability).
+    </p>
+
+  </div>
+</body>
+</html>
